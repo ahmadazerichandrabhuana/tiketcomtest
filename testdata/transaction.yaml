@@ -1,0 +1,9 @@
+# Yaml for storing data purpose
+# author zorozeri@gmail.com
+
+facebookCredential:
+  username: "zorozeri@yahoo.com"
+  password: "23772377"
+emailCredential:
+  username: "zorozeri@yahoo.com"
+  password: "1234Qwerty*"

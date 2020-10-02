@@ -1,0 +1,12 @@
+
+\.idea/
+
+*.iml
+
+allure-report/
+
+allure-results/
+
+target/
+
+csv/
